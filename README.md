@@ -12,7 +12,7 @@ Discover *where* to travel — filter 247 countries by climate, safety and seaso
 [![Three.js](https://img.shields.io/badge/Three.js-3D-000000?logo=three.js&logoColor=white)](https://threejs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-### 👉 [**Try the live app**](https://your-app.vercel.app) 👈
+### 👉 [**Try the live app**](https://worldvision-eta.vercel.app) 👈
 
 </div>
 
@@ -76,6 +76,6 @@ Recruiters or collaborators: I'm happy to grant access on request — just reach
 
 <div align="center">
 
-**[🔗 Live app](https://your-app.vercel.app)** · Built by [@mvsa7](https://github.com/mvsa7)
+**[🔗 Live app](https://worldvision-eta.vercel.app)** · Built by [@mvsa7](https://github.com/mvsa7)
 
 </div>
